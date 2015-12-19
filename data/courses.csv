@@ -1,0 +1,124 @@
+_id,code,name,students,difficulty,passed,credits,factor1,factor2,factor3,factor4,factor5
+H01D0A,H01D0A,Inleiding Tot De Materiaalkunde,3076,0.61,2091,3,0.08,0.58,0.62,0.14,0.22
+H01B0A,H01B0A,Toegepaste Mechanica Deel 1,3246,0.99,1942,5,0.23,0.53,1,0.1,0.42
+H01Z2A,H01Z2A,Elektrische Netwerken,3002,0.43,2136,3,0.49,0.45,0.64,0.46,0.17
+H01C4B,H01C4B,Wijsbegeerte,3141,0.77,2257,3,0.91,0,0.43,0.43,0.87
+H01A8A,H01A8A,Algemene En Technische Scheikunde,3399,0.53,2098,7,0.7,0.9,0.96,1,0.45
+H01A0B,H01A0B,Analyse Deel 1,3223,0.83,2087,6,0.4,0.87,0.03,0.08,0.96
+H01A2A,H01A2A,Analyse Deel 2,3323,0.12,1893,5,0.23,0.77,0.36,0.22,0.8
+H01B4A,H01B4A,Thermodynamica,3092,0.16,1972,3,0.72,0.95,0.88,0.73,0.78
+H01A4A,H01A4A,Toegepaste Algebra,3259,0.6,2158,5,0.49,0.51,0.82,0.24,0.66
+H01B2A,H01B2A,Algemene Natuurkunde,3022,0.88,2088,7,0.21,0.64,0.22,0.23,0.82
+H01B6B,H01B6B,Methodiek Van De Informatica,3090,0.49,2055,6,0.14,0.38,0.51,0.31,0.68
+H01C2A,H01C2A,Probleemoplossen & Ontwerpen Deel 2,2704,0.12,2546,3,0.94,0.62,0.94,0.38,0.85
+H01B9A,H01B9A,Probleemoplossen & Ontwerpen Deel 1,2833,0.7,2683,4,0.45,0.78,0.75,0.99,0.67
+E03C5A,E03C5A,Practicum Vaardigheden, Deel 1,1,0.44,0,3,0.33,0.81,0.54,0.96
+H01D8B,H01D8B,Numerieke Wiskunde,3325,0.26,2870,4,0.26,0.89,0.04,1,0.09
+H01D7B,H01D7B,Economie,3210,0.25,3052,3,0.59,0.13,0.89,0.83,0.53
+H01N2A,H01N2A,Energieconversiemachines & -Systemen,1984,1,1468,6,0.09,0.86,0.6,0.3,0.45
+H01C8A,H01C8A,Toegepaste Mechanica Deel 2,3311,0.77,2942,5,0.99,0.14,0.24,0.11,0.17
+H01N8A,H01N8A,Selectie & Dimension. Machine-Elementen,1930,0.02,1516,6,0.73,0.18,0.37,0.44,0.58
+H01A6A,H01A6A,Kansrekenen En Statistiek,3331,0.66,2796,3,0.6,0.66,0.16,0.43,0.52
+H01G7A,H01G7A,Toegepaste Mechanica Deel 3,1918,0.67,1502,3,0.63,0.29,0.54,0.83,0.58
+H01C6A,H01C6A,Organische Scheikunde,3343,0.2,2813,3,0.69,0.18,0.34,0.96,0.29
+H08W0A,H08W0A,Analyse Deel 3,3374,0.42,2930,3,0.22,0.47,0.62,0.42,0.49
+H01D2A,H01D2A,Informatieoverdracht En -Verwerking,3230,0.52,3090,5,0.96,0.5,0.02,0.15,0.06
+H01G9A,H01G9A,Atoomth, Chem. Period & Chem. Binding,765,0.51,657,3,0.32,0.76,0.78,0.51
+H08U1A,H08U1A,Kunststoffen,756,0.73,694,6,0.89,0.26,0.31,0.48,0.91
+H01K9A,H01K9A,Toegepaste Chemische Thermodynamica,764,0.2,644,6,0.31,0.62,0.04,0.74,0.76
+H01D4B,H01D4B,Probleemoplossen En Ontwerpen Deel 3,3079,0.93,3077,4,0.94,0.15,0.72,0.2,0.97
+H01M8A,H01M8A,Systeemtheorie En Regeltechniek,1777,0.65,1559,6,0.26,0.43,0.03,0.32,0.05
+H08U5A,H08U5A,Kwantummechanica & Fysische Optica,1831,0.36,1479,3,1,0.74,0.75,0.49,0.53
+H01L1A,H01L1A,Digitale Elektronica En Processoren,1770,0.29,1585,6,0.22,0.15,0.53,0.7,0.21
+H01G5A,H01G5A,Toegepaste Discrete Algebra,830,0.07,710,3,0.24,0.33,0.84,0.6,0.86
+H01O9A,H01O9A,Gegevensbanken,798,0.77,776,6,0.27,0.92,0.25,0.47,0.24
+H01P1A,H01P1A,Objectgericht Programmeren,797,0.28,771,6,0.72,0.57,0.74,0.86,0.54
+H9XA1A,H9XA1A,Constructiematerialen,1049,0.68,981,3,0.29,0.56,0.51,0.35,0.6
+H01F2A,H01F2A,Bedrijfskunde,2775,0.17,2565,6,0.42,0.91,0.84,0.99,0.43
+A04D5A,A04D5A,Religie, Zingeving En Levensbesch.,2540,0.89,2392,3,0.42,0.37,0.6,0.32
+H01I8A,H01I8A,Structuurgenese Van Materialen,689,0.44,629,6,0.62,0.53,0.95,0.1,0.47
+H01J2A,H01J2A,Mechanisch Gedrag Van Materialen,693,0.87,643,6,0.2,0.73,0.52,0.85,0.9
+H01J9A,H01J9A,Chemische Reactorkunde En Bioreactorkund,570,0.46,554,6,0.89,0.52,0.09,0.65,0.68
+H01K3A,H01K3A,Milieutechnol Miv Analytische Scheikunde,560,0.88,532,6,0.29,0.72,0.42,0.05,0.02
+H01J7A,H01J7A,Transportverschijnselen,386,0.24,356,6,0.71,0.83,0.76,0.22,0.07
+H01J5A,H01J5A,Materialen, Gebruik En Degradatie,446,0.59,418,6,0.52,0.94,0.08,0.36
+H02U6A,H02U6A,Polymeercomposieten,438,0.58,404,6,0.97,0.23,0.12,0.57,0.37
+H01S0A,H01S0A,Management Accounting,286,0.3,276,3,0.72,0.1,0.22,0.98,0.99
+H01J0A,H01J0A,Thermodyn & Kinetica Toegep Mater,448,0.8,420,6,0.08,0.79,0.69,0.27,0.38
+H04J2A,H04J2A,Transportverschijnselen,136,0.89,80,6,0.7,0.92,0.32,0.81,0.19
+A08C4A,A08C4A,Religie, Zingeving En Levensbesch,183,0.42,166,3,0.31,0.53,0.65,0.45
+H01R9A,H01R9A,Fysieke Logistiek,6,0.84,6,3,0.26,0.5,0.62,0.13,0.54
+H08W1A,H08W1A,Sterkteleer 2,358,0.99,328,3,0.76,0.15,0.6,0.28,0.52
+H08W3A,H08W3A,Elasticiteits- En Plasticiteitsleer,467,0.16,305,6,0.75,0.76,0.79,0.3,0.57
+H08T9A,H08T9A,Hydraulica,372,0.38,316,6,0.6,0.36,0.91,0.64,0.43
+H08U4A,H08U4A,Systeemtheorie,385,0.96,361,3,0.88,0.97,0.45,0.12,0.3
+H01E4A,H01E4A,Geologie,382,0.37,364,6,0.83,0.71,0.93,0.1,0.98
+H01F5A,H01F5A,Probabilistisch Ontwerpen,350,0.55,332,3,0.38,0.16,0.82,0.23,0.02
+H01F7A,H01F7A,Systeemtheorie,10,0.51,10,3,0.54,0.66,0.96,0.64,0.32
+H01S1A,H01S1A,Operationeel Management,8,0.95,8,6,0,0.41,0.88,0.31,0.89
+H01R6A,H01R6A,P&O Bedrijfsbeleid,2,0.08,2,4,0.65,0.77,0.18,0.59,0.76
+H01S3A,H01S3A,Productinnovatie En Industriele Marketin,6,0.62,6,6,0.77,0.96,0.84,0.51,0.97
+G0M00A,G0M00A,Wetenschap Van De Kosmos,2,0.27,2,4,0.8,0.12,0.09,0.86,0
+H01H3A,H01H3A,Bouwfysica,297,0.36,287,6,0.55,0.15,0.1,0.38,0.92
+H01L8A,H01L8A,Elektrische Energie En Aandrijvingen,1872,0.54,1608,6,0.84,0.58,0.59,0.55,0.17
+H01M1A,H01M1A,Elektromagnetische Golven,1406,0.85,1258,3,0.48,0.21,0.04,0.02,0.98
+H01M5A,H01M5A,Halfgeleidercomponenten,1492,0.9,1114,6,0.18,0.58,0.82,0.09,0.54
+H01L4A,H01L4A,Digitale En Analoge Communicatie,1438,0.5,1214,3,0.22,0.62,0.49,0.46,0.66
+H01N0A,H01N0A,Beweging En Trillingen,1446,0.9,1394,6,0.16,0.3,0.68,0.99,0.83
+H08W4A,H08W4A,Fluidummechanica,1466,0.02,958,3,0.99,0.2,0.07,0.57,0.12
+H08W5A,H08W5A,Warmteoverdracht,1326,0.07,1094,3,0.5,0.02,0.53,0.54,0.41
+H01O1A,H01O1A,Productietechnieken En -Systemen,1432,0.17,1392,6,0.9,0.96,0.17,0.09,0.95
+H01M3A,H01M3A,Elektronische Basisschakelingen,1374,0.18,1310,3,0.24,0.38,0.41,0.83,0.51
+H01L6A,H01L6A,Digitale Signaalverwerking,1452,0.9,1250,3,0.08,0.77,0.28,0.4,0.78
+H03P7A,H03P7A,Beton Deel 1,313,0.46,253,3,0.83,0.87,0.89,0.18,0.15
+H01E9A,H01E9A,Rotsmechanica,315,0.06,247,6,0.94,0.27,0.31,0.32,0.18
+H01I6A,H01I6A,Verkeerskunde,314,0.61,256,6,0.37,0.66,0.13,0.06,0.2
+H01H5A,H01H5A,Soil Mechanics,296,0.73,292,6,0.13,0.18,0.95,0.32,0.16
+H01E0A,H01E0A,Elasticiteits- & Plasticiteitsleer,8,0.92,8,6,0.92,0.52,0.8,0.24,0.5
+H01H7A,H01H7A,Hydraulica,2,0.18,2,6,0.39,0.29,0.52,0.98,0.6
+H01Q8A,H01Q8A,P&O Bouwkunde Deel 1,2,0.65,2,4,0.15,0.24,0.01,0.64,0.05
+H01R0A,H01R0A,P&O Bouwkunde Deel 2,6,0.99,6,8,0.2,0.17,0.26,0.42,0.8
+H01K2A,H01K2A,Kunststoffen,12,0.66,10,6,0.79,0.43,0.52,0.21,0.23
+H01Q6B,H01Q6B,P&O Elektrotechniek Hoofdrichting,4,0.09,4,8,0.44,0.94,0.84,0.99,0.91
+H01G3A,H01G3A,Optische En Akoestische Golven,4,0.1,2,3,0.61,0.41,0.27,0.04,0.95
+H01Q0A,H01Q0A,Geintegreerd Practicum Nevenrichting Wtk,2,0.17,2,4,0.06,0.06,0.08,0.45,0.26
+H01O4A,H01O4A,Artificiyle Intelligentie,2,0.63,2,6,0.42,0.61,0.8,0.17,0.42
+H01Q7A,H01Q7A,Geint. Pract. Nevenri Elektrotrotechniek,2,0.71,2,4,0.3,0.18,0.82,0.89,0.89
+H01P3A,H01P3A,Numerieke Modellering En Benadering,608,0.52,470,6,0.39,0.7,0.06,0.09,0.94
+G0Q43A,G0Q43A,Computer Networks,574,0.42,538,6,0.06,0.03,0.74,0.02,0.86
+H01E7A,H01E7A,Milieuproblemen En -Technieken,282,0.8,264,6,0.73,0.98,0.95,0.46,0.86
+H01K7A,H01K7A,Scheidingsprocessen,552,0.25,514,6,0.69,0.27,0.15,0.93,0.93
+H01P7C,H01P7C,P&O Werktuigkunde,898,0.52,898,9,0.5,0.17,0.54,0.8,0.6
+H01S1B,H01S1B,Operationeel Management,270,0.95,262,5,0.29,0.19,0.38,0.45,0
+H01S3B,H01S3B,Productinnovatie En Industriele Marketin,268,0.85,262,4,0.36,0.25,0.11,0.94,0.59
+H01R7A,H01R7A,Besliskunde Voor Bedrijfsbeheer,274,0.9,260,6,0.52,0.97,1,0.21,0.93
+H01Q6C,H01Q6C,P&O Elektrotechniek,644,0.81,642,9,0.08,0.82,0.09,0.55,0.29
+H09B9A,H09B9A,Modellering Weefselfysiologie,158,0.04,150,6,0.9,0.88,0.16,0.42,0.21
+H09B8A,H09B8A,Systeembenadering Unicellulaire Organis,164,0.69,150,6,0.03,0.94,0.61,1,0.79
+H09B7A,H09B7A,Beginselen Cel- En Weefselbiologie,166,0.56,152,6,0.31,0.01,0.84,0.26,0.33
+H06U1A,H06U1A,Artificiyle Intelligentie,310,0.64,310,6,0.26,0.88,0.51,0.13,0.29
+H01P5A,H01P5A,Computerarchitectuur En Systeemsoftware,584,0.19,524,6,0.96,0.57,0.11,0.59,0.65
+H01Q3C,H01Q3C,P&O Computerwetenschappen,296,0.71,290,9,0.63,0.63,0.61,0.98,0.94
+H01R4C,H01R4C,P&O Chemische Technologie,366,0.07,366,9,0.26,0.39,0.53,0.63,0.76
+H01Q1C,H01Q1C,Nt5 P&O Materiaalkunde,114,0.17,114,9,0.49,0.13,0.22,0.64,0.43
+H01I0A,H01I0A,Sterkteleer 3 / Bouwmechanica,314,0.79,246,6,0.49,0.95,0.59,0.8,0.2
+H08W2A,H08W2A,Staalconstructie Ontwerp En Berekening,276,0.37,258,3,0.11,0.25,0.6,0.29,0.11
+G0O72A,G0O72A,Mineralogie,4,0.27,4,6,0.31,0.55,0.29,0.87,0.79
+H08X4B,H08X4B,P&O Geotechniek En Mijnbouwkunde,2,0.53,2,9,0.32,0.49,0.41,0.54,0.74
+X0C76A,X0C76A,Informatieov & -Verw Miv Elekr Netwerk,8,0.25,8,7,0.82,0.8,1,0.97,0.17
+H01Q8B,H01Q8B,P&O Bouwkunde Deel 1,270,0.68,270,3,0.89,0.99,0.36,0.61,0.13
+H01R0C,H01R0C,P&O Bouwkunde Deel 2,266,0.01,266,6,0.77,0.91,0.22,0.05,0.15
+X0B87A,X0B87A,Materiaalkunde,2,0.46,0,3,0.03,0.15,0.85,0.31,0.65
+X0A43A,X0A43A,Numerieke Wiskunde,2,0.06,0,5,0.39,0,0.35,0.09,0.35
+G0O80A,G0O80A,Hydrogeologie,2,0.62,2,4,0.47,0.85,0.58,0.91,0.43
+X9X17A,X9X17A,Klassieke En Toegepaste Mechanica,8,0.66,6,5,0.68,0.91,0.73,0.2,0.56
+X0A43B,X0A43B,Numerieke Wiskunde,2,0.42,2,4,0.33,0.16,0.82,0.59,0.63
+H02A0A,H02A0A,Fundamentals Of A.I.,2,0.82,2,5,0.39,0.98,0.33,0.53,0.64
+H06E2A,H06E2A,Quantum Physics,2,0.49,2,3,0.92,0.61,0.17,0.96,0.33
+H05F3A,H05F3A,Digit Signaalverw Vr Comm & Inform Syst,2,0.09,0,6,0.2,0.88,0.66,0.48,0.67
+G0W53A,G0W53A,Mineralogie,14,0.11,14,6,0.33,0.68,0.99,0.39,0.24
+G0W81A,G0W81A,Geofysica,4,0.52,4,6,0.79,0.21,0.45,0.73,0.88
+G0O86A,G0O86A,Nt Geologische Kartering: Veldstage,2,0.1,2,4,0.78,0.49,0.92,0.32,0.11
+H00O3A,H00O3A,Ecodesign And Life Cycle Engineering,2,0.11,2,3,0.77,0.85,0.99,0.16,0.06
+H08X4C,H08X4C,Nt Geologische Kartering En Topografie,2,0.14,2,4,0.82,0.81,0.16,0.3,0.67
+X0C13B,X0C13B,Differentiaalverg Deel Ii: Part. Diff.,2,0.55,2,3,0.99,0.28,0.05,0.54,0.45
