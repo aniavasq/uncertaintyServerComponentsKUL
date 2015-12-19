@@ -34,6 +34,7 @@ from sys import stdout
 from twisted.python import log
 from twisted.internet import reactor
 from gc import collect as gc_collect
+from json import dumps as json_dumps
 
 DEBUG = True
 PORT = 8000
@@ -73,7 +74,8 @@ class BackendServerProtocol(WebSocketServerProtocol):
 
         # echo back message verbatim
         #self.sendMessage( dispatcher.risk( json_input ), False )
-        self.sendMessage( {'risk':uniform(0,1),'quality':uniform(0,1)}, False )
+        result = {'risk':uniform(0,1),'quality':uniform(0,1)}
+        self.sendMessage( json_dumps(result), False )
         
     def onClose(self, wasClean, code, reason):
         #try:
